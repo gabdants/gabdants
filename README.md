@@ -3,8 +3,8 @@
 # Gabriel Dantas :man_technologist:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/romuloscampini)](https://github.com/gabdants)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-dantas/)](https://www.linkedin.com/in/romuloscampini/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/o_homem_de_jah)](https://twitter.com/romuloscampini)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-dantas/)](https://www.linkedin.com/in/gabriel-dantas/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/o_homem_de_jah)](https://twitter.com/o_homem_de_jah)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romulo@scampini.com.br)](mailto:gab.dantas55@gmail.com)
 
 ### Let us step into the night and pursue that flighty temptress, adventure. :roller_coaster: Welcome to my profile
